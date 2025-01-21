@@ -13,3 +13,4 @@ The graphical user interface (GUI) is designed with semantic HTML to structure c
 ## Snapshots
 
 ![Login Page](loginpage.png)
+![Registration Page](Registration Page.png)
