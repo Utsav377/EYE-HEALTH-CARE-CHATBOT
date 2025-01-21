@@ -13,4 +13,4 @@ The graphical user interface (GUI) is designed with semantic HTML to structure c
 ## Snapshots
 
 ![Login Page](loginpage.png)
-![Registration Page](Registrationpage.png)
+![Registration Page](https://github.com/Utsav377/EYE-HEALTH-CARE-CHATBOT/blob/4ad47253ebe7e106037aec7a76e79a7136eed0bd/Registration%20Page.png)
