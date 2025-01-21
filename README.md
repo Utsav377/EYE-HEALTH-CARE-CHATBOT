@@ -10,5 +10,6 @@ To store user data, the chatbot uses a database with tables structured for stori
 The graphical user interface (GUI) is designed with semantic HTML to structure content for improved accessibility and search engine optimization (SEO). Modular CSS organizes styles into components, ensuring scalability and maintainability of the design.
 
 
-###UI SCREENSHOT
+##UI SCREENSHOT
+
 ![Login Page](Picture3.jpg)
