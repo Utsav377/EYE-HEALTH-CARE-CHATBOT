@@ -8,3 +8,5 @@ The chatbot is built using Botpress, an open-source framework for conversational
 To store user data, the chatbot uses a database with tables structured for storing user inquiries, responses, timestamps, and other relevant information. This ensures effective handling of user input and responses.
 
 The graphical user interface (GUI) is designed with semantic HTML to structure content for improved accessibility and search engine optimization (SEO). Modular CSS organizes styles into components, ensuring scalability and maintainability of the design.
+#UI SCREENSHOT
+![Login Page](Picture3.jpg)
